@@ -10,7 +10,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSezbBIYP1ZgqIpEht3xHQHJNAXNgZLJbXqY70eZ
 
 2- Write-Up is allowed without mentioning the Flag
 
-3- It is forbidden to put random answers, and the formula for FLAG is Flag{XXXX_XXXXXXXX_XXXXXX}
+3- It is forbidden to put random answers, and the formula for the FLAG is Flag{XXXX_XXXXXXXX_XXXXXX}
 
 ![Anubis_Cover_2](https://user-images.githubusercontent.com/48302135/136412329-382542c3-82af-4cd2-86e0-c604319c8adc.jpg)
 
